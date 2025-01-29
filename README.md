@@ -1,6 +1,6 @@
 ![...](takatoa_head-img_1920-200.jpg)
 
-# qDaT
+# qDaT - quantum-oriented Datetime
 
    qDaT defines a class for date and time information in the form: complex(qDaT-date,qDaT-time) 
 
